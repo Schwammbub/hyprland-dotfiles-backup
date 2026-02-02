@@ -1,2 +1,2 @@
-# hyprland-dotfiles-backup
+# configs-backup
 Just backup files for my dotfiles
