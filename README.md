@@ -1,2 +1,2 @@
 # configs-backup
-Just backup files for my dotfiles
+Just a few backup files
